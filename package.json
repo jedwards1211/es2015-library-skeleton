@@ -51,7 +51,7 @@
   },
   "homepage": "https://github.com/jedwards1211/es2015-library-skeleton#readme",
   "devDependencies": {
-    "@commitlint/cli": "^5.2.5",
+    "@commitlint/cli": "^6.0.0",
     "@commitlint/config-conventional": "^5.2.3",
     "@jedwards1211/eslint-config": "^1.0.0",
     "@jedwards1211/eslint-config-flow": "^1.0.0",

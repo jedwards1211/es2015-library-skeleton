@@ -81,6 +81,6 @@
     "nyc": "^11.4.1",
     "rimraf": "^2.6.0",
     "semantic-release": "^12.2.2",
-    "travis-deploy-once": "^4.3.1"
+    "travis-deploy-once": "^4.0.0"
   }
 }

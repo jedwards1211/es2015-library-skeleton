@@ -105,7 +105,7 @@
     "flow-bin": "^0.92.0",
     "flow-copy-source": "^2.0.2",
     "flow-watch": "^1.1.4",
-    "husky": "^1.1.4",
+    "husky": "^4.0.0",
     "istanbul": "^0.4.5",
     "lint-staged": "^8.0.4",
     "mocha": "^6.2.1",
